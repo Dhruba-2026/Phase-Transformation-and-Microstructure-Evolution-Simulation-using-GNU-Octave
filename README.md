@@ -28,6 +28,36 @@ This project was developed independently as a self-directed research initiative 
 * Scientific Visualization
 * Computational Materials Science
 
+## Methodology
+
+The simulation is based on the JMAK equation, which describes the transformed fraction X(t):
+
+X(t)=1−exp(−kt
+n
+)
+
+Where:
+
+X(t) = transformed fraction
+k = temperature-dependent rate constant
+n = Avrami exponent
+t = time
+
+Temperature dependence is incorporated through Arrhenius-type behavior:
+
+k=k
+0
+	​
+
+exp(−
+RT
+Q
+	​
+
+)
+
+This enables simulation of transformation kinetics under varying thermal conditions.
+
 ## Key Features
 
 * Numerical simulation of phase transformation kinetics
