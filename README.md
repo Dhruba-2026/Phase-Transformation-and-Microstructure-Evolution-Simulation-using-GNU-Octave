@@ -28,6 +28,17 @@ This project was developed independently as a self-directed research initiative 
 * Scientific Visualization
 * Computational Materials Science
 
+## Repository Structure
+├── README.md
+├── main_phase_transformation.m        # Core simulation script
+├── Research_Report.pdf                # Full technical report
+├── results/                           # Simulation outputs
+│   ├── phase_transformation_curve.svg
+│   ├── ttt_diagram.svg
+│   ├── cooling_curve.svg
+│   └── microstructure_evolution.png
+└── figures/                           # Additional plots and visuals
+
 ## Methodology
 
 The simulation is based on the JMAK equation, which describes the transformed fraction X(t):
@@ -71,7 +82,13 @@ Major outputs include:
 
 ## Research Report
 
-A detailed research report describing the methodology, numerical implementation, results, discussion, and conclusions is included in this repository.
+A detailed research report accompanies this repository, including:
+* Theoretical Background
+* Governing equations
+* Numerical implementation details
+* Simulation Methodology
+* Results and discussions
+* Conclusion and future scope
 
 **File:** `Research_Report.pdf`
 
