@@ -36,10 +36,10 @@ This project was developed independently as a self-directed research initiative 
 ├── [Phase_Transformation_Kinetics_GNU_Octave_Report.pdf](./Phase_Transformation_Kinetics_GNU_Octave_Report.pdf)              
 -Simulation outputs
 ├── results/                           
-│   ├── Phase_Transformation_Kinetics(JMAK).png
-│   ├── TTT_Diagram.png
-│   ├── Cooling-Curve.png
-│   └── Microstructure-evolution.png
+│   ├── [Phase_Transformation_Kinetics(JMAK).png](./Phase_Transformation_Kinetics(JMAK).png)
+│   ├── [TTT_Diagram.png](./TTT_Diagram.png)
+│   ├── [Cooling-Curve.png](./Cooling-Curve.png)
+│   └── [Microstructure-evolution.png](./Microstructure-evolution.png)
 └── Additional values and results
     ├── Phase_transformation_Values.png
     ├── Microstructure_&_Cooling-Rate_Results.png
