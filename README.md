@@ -31,7 +31,7 @@ This project was developed independently as a self-directed research initiative 
 ## Repository Structure
 ├── README.md
 ├── [main_phase_transformation.m](./main_phase_transformation.m)        # Core simulation script
-├── Research_Report.pdf                # Full technical report
+├── [Phase_Transformation_Kinetics_GNU_Octave_Report.pdf](./Phase_Transformation_Kinetics_GNU_Octave_Report.pdf)               # Full technical report
 ├── results/                           # Simulation outputs
 │   ├── phase_transformation_curve.svg
 │   ├── ttt_diagram.svg
