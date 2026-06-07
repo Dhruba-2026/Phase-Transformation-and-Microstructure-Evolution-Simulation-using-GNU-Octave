@@ -32,9 +32,7 @@ This project was developed independently as a self-directed research initiative 
 
 The simulation is based on the JMAK equation, which describes the transformed fraction X(t):
 
-X(t)=1−exp(−kt
-n
-)
+X(t)=1−exp(−kt<sup>n</Sup>)
 
 Where:
 
@@ -45,16 +43,7 @@ t = time
 
 Temperature dependence is incorporated through Arrhenius-type behavior:
 
-k=k
-0
-	​
-
-exp(−
-RT
-Q
-	​
-
-)
+k=k<sub>0</sub> exp(−Q/RT)
 
 This enables simulation of transformation kinetics under varying thermal conditions.
 
