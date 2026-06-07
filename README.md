@@ -3,6 +3,12 @@ Independent research project on numerical simulation of phase transformation kin
 
 # Phase Transformation and Microstructure Evolution Simulation using GNU Octave
 
+![GNU Octave](https://img.shields.io/badge/GNU-Octave-blue)
+![Materials Science](https://img.shields.io/badge/Field-Materials%20Science-orange)
+![Numerical Simulation](https://img.shields.io/badge/Type-Numerical%20Simulation-green)
+![JMAK Model](https://img.shields.io/badge/Model-JMAK-red)
+![Research Project](https://img.shields.io/badge/Project-Independent%20Research-purple)
+
 ## Overview
 
 This repository presents an independent computational materials science project focused on the numerical simulation of **phase transformation kinetics** and **microstructure evolution in metals** using **GNU Octave**.
