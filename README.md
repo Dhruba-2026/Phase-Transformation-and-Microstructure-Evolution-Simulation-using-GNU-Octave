@@ -41,8 +41,8 @@ This project was developed independently as a self-directed research initiative 
 │   └── microstructure_evolution.png
 └── figures/
 
-## Key Features
-
+**## Key Features
+**
 * ✔ Numerical simulation of phase transformation kinetics
 * ✔ Temperature-dependent transformation analysis
 * ✔ JMAK-based transformation model
@@ -51,7 +51,7 @@ This project was developed independently as a self-directed research initiative 
 * ✔ Two-dimensional microstructure evolution visualization
 * ✔ Quantitative analysis of transformation parameters
 
-## Results
+**## Results**
 
 The simulation successfully demonstrates the influence of temperature on transformation kinetics and microstructural development.
 
@@ -63,13 +63,13 @@ Major outputs include:
 * Microstructure Evolution Simulation
 * Quantitative Transformation Analysis
 
-## Research Report
+**## Research Report**
 
 A detailed research report describing the methodology, numerical implementation, results, discussion, and conclusions is included in this repository.
 
 **File:** `Research_Report.pdf`
 
-## Academic Relevance
+**## Academic Relevance**
 
 This project is closely related to topics in:
 
@@ -80,7 +80,7 @@ This project is closely related to topics in:
 * Phase Transformation Theory
 * Numerical Simulation
 
-## Future Improvements
+**## Future Improvements**
 
 Possible extensions of this work include:
 
@@ -90,7 +90,7 @@ Possible extensions of this work include:
 * Machine learning for transformation prediction
 * Experimental validation using real alloy systems
 
-## Author
+**## Author**
 
 **Dhrubajyoti Bhattacherjee**
 
@@ -100,6 +100,6 @@ Independent Researcher in Computational Materials Science
 
 GitHub: https://github.com/Dhruba-2026
 
-## License
+**## License**
 
 This repository is intended for educational and research purposes. Please provide appropriate attribution if this work is referenced or reused.
