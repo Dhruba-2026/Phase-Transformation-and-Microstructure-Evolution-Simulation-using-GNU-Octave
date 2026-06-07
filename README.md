@@ -41,8 +41,8 @@ This project was developed independently as a self-directed research initiative 
 │   ├── [Cooling-Curve.png](./Cooling-Curve.png)
 │   └── [Microstructure-evolution.png](./Microstructure-evolution.png)
 └── Additional values and results
-    ├── Phase_transformation_Values.png
-    ├── Microstructure_&_Cooling-Rate_Results.png
+    ├── [Phase_transformation_Values.png](./Phase_transformation_values.png)
+    ├── [Microstructure_&_Cooling-Rate_Results.png](./Microstructure_&_Cooling-Rate_Results.png)
 
 ## Methodology
 
