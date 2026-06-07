@@ -95,7 +95,7 @@ A detailed research report accompanies this repository, including:
 * Results and discussions
 * Conclusion and future scope
 
-**File:** `Research_Report.pdf`
+**File:** [Phase_Transformation_Kinetics_GNU_Octave_Report.pdf](./Phase_Transformation_Kinetics_GNU_Octave_Report.pdf)
 
 ## Academic Relevance
 
